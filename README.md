@@ -15,6 +15,7 @@ This repository is just for study purpose. The implementations here are far behi
 
 <p align="center">
   <strong>MIT License</strong><br>
-  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.<br><br>
+  This project is licensed under the MIT License - see the 
+<a href="https://github.com/BrenoAV/ml-from-scratch/blob/main/LICENSE">LICENSE</a> file for details.<br><br>
   &copy; 2023 BrenoAV
 </p>
